@@ -4,8 +4,8 @@
 package elasticacheiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/service/elasticache"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/service/elasticache"
 )
 
 // ElastiCacheAPI is the interface type for elasticache.ElastiCache.

@@ -2,8 +2,8 @@
 package cloudsearch
 
 import (
-	"github.com/aws/aws-sdk-go/internal/features/shared"
-	"github.com/aws/aws-sdk-go/service/cloudsearch"
+	"github.com/gunosy/aws-sdk-go/internal/features/shared"
+	"github.com/gunosy/aws-sdk-go/service/cloudsearch"
 	. "github.com/lsegal/gucumber"
 )
 

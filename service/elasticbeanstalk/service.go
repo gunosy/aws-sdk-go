@@ -3,9 +3,9 @@
 package elasticbeanstalk
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/internal/protocol/query"
-	"github.com/aws/aws-sdk-go/internal/signer/v4"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/internal/protocol/query"
+	"github.com/gunosy/aws-sdk-go/internal/signer/v4"
 )
 
 // This is the AWS Elastic Beanstalk API Reference. This guide provides detailed

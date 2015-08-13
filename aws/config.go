@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws/credentials"
+	"github.com/gunosy/aws-sdk-go/aws/credentials"
 )
 
 // DefaultChainCredentials is a Credentials which will find the first available

@@ -4,8 +4,8 @@
 package snsiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/service/sns"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/service/sns"
 )
 
 // SNSAPI is the interface type for sns.SNS.

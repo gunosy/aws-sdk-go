@@ -4,8 +4,8 @@
 package codepipelineiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/service/codepipeline"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/service/codepipeline"
 )
 
 // CodePipelineAPI is the interface type for codepipeline.CodePipeline.

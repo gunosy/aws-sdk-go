@@ -1,8 +1,8 @@
 package stscreds
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/service/sts"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/service/sts"
 	"github.com/stretchr/testify/assert"
 	"testing"
 	"time"

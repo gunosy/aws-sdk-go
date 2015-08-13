@@ -6,9 +6,9 @@ package stscreds
 
 import (
 	"fmt"
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/credentials"
-	"github.com/aws/aws-sdk-go/service/sts"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/aws/credentials"
+	"github.com/gunosy/aws-sdk-go/service/sts"
 	"time"
 )
 

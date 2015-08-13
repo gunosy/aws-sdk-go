@@ -2,8 +2,8 @@
 package dynamodb
 
 import (
-	"github.com/aws/aws-sdk-go/internal/features/shared"
-	"github.com/aws/aws-sdk-go/service/dynamodb"
+	"github.com/gunosy/aws-sdk-go/internal/features/shared"
+	"github.com/gunosy/aws-sdk-go/service/dynamodb"
 	. "github.com/lsegal/gucumber"
 )
 

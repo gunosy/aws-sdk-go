@@ -5,9 +5,9 @@ package query
 import (
 	"encoding/xml"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/internal/protocol/xml/xmlutil"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/aws/awserr"
+	"github.com/gunosy/aws-sdk-go/internal/protocol/xml/xmlutil"
 )
 
 // Unmarshal unmarshals a response for an AWS Query service.

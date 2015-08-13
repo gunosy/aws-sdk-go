@@ -4,8 +4,8 @@
 package emriface
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/service/emr"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/service/emr"
 )
 
 // EMRAPI is the interface type for emr.EMR.

@@ -3,9 +3,9 @@
 package elb
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/internal/protocol/query"
-	"github.com/aws/aws-sdk-go/internal/signer/v4"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/internal/protocol/query"
+	"github.com/gunosy/aws-sdk-go/internal/signer/v4"
 )
 
 // Elastic Load Balancing distributes incoming traffic across your EC2 instances.

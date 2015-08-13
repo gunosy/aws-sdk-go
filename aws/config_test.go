@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws/credentials"
+	"github.com/gunosy/aws-sdk-go/aws/credentials"
 )
 
 var testCredentials = credentials.NewChainCredentials([]credentials.Provider{

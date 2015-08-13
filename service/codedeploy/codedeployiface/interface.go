@@ -4,8 +4,8 @@
 package codedeployiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/service/codedeploy"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/service/codedeploy"
 )
 
 // CodeDeployAPI is the interface type for codedeploy.CodeDeploy.

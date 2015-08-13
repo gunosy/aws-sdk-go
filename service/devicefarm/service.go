@@ -3,9 +3,9 @@
 package devicefarm
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/internal/protocol/jsonrpc"
-	"github.com/aws/aws-sdk-go/internal/signer/v4"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/internal/protocol/jsonrpc"
+	"github.com/gunosy/aws-sdk-go/internal/signer/v4"
 )
 
 // AWS Device Farm is a service that enables mobile app developers to test Android,

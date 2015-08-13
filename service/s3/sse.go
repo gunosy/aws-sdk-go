@@ -4,9 +4,9 @@ import (
 	"crypto/md5"
 	"encoding/base64"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/aws/awsutil"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/aws/awserr"
+	"github.com/gunosy/aws-sdk-go/aws/awsutil"
 )
 
 var errSSERequiresSSL = awserr.New("ConfigError", "cannot send SSE keys over HTTP.", nil)

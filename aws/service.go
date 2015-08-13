@@ -9,8 +9,8 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws/awserr"
-	"github.com/aws/aws-sdk-go/internal/endpoints"
+	"github.com/gunosy/aws-sdk-go/aws/awserr"
+	"github.com/gunosy/aws-sdk-go/internal/endpoints"
 )
 
 // A Service implements the base service request and response handling

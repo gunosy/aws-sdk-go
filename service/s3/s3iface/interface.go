@@ -4,8 +4,8 @@
 package s3iface
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/service/s3"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/service/s3"
 )
 
 // S3API is the interface type for s3.S3.

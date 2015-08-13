@@ -3,9 +3,9 @@
 package rds
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/internal/protocol/query"
-	"github.com/aws/aws-sdk-go/internal/signer/v4"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/internal/protocol/query"
+	"github.com/gunosy/aws-sdk-go/internal/signer/v4"
 )
 
 // Amazon Relational Database Service (Amazon RDS) is a web service that makes

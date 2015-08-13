@@ -3,9 +3,9 @@
 package cloudsearch
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/internal/protocol/query"
-	"github.com/aws/aws-sdk-go/internal/signer/v4"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/internal/protocol/query"
+	"github.com/gunosy/aws-sdk-go/internal/signer/v4"
 )
 
 // You use the Amazon CloudSearch configuration service to create, configure,

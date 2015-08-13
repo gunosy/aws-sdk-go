@@ -3,9 +3,9 @@
 package elastictranscoder
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/internal/protocol/restjson"
-	"github.com/aws/aws-sdk-go/internal/signer/v4"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/internal/protocol/restjson"
+	"github.com/gunosy/aws-sdk-go/internal/signer/v4"
 )
 
 // The AWS Elastic Transcoder Service.

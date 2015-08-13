@@ -2,8 +2,8 @@
 package ses
 
 import (
-	"github.com/aws/aws-sdk-go/internal/features/shared"
-	"github.com/aws/aws-sdk-go/service/ses"
+	"github.com/gunosy/aws-sdk-go/internal/features/shared"
+	"github.com/gunosy/aws-sdk-go/service/ses"
 	. "github.com/lsegal/gucumber"
 )
 

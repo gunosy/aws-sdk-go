@@ -4,8 +4,8 @@
 package kmsiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/service/kms"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/service/kms"
 )
 
 // KMSAPI is the interface type for kms.KMS.

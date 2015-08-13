@@ -3,9 +3,9 @@
 package swf
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/internal/protocol/jsonrpc"
-	"github.com/aws/aws-sdk-go/internal/signer/v4"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/internal/protocol/jsonrpc"
+	"github.com/gunosy/aws-sdk-go/internal/signer/v4"
 )
 
 // The Amazon Simple Workflow Service (Amazon SWF) makes it easy to build applications

@@ -2,8 +2,8 @@
 package lambda
 
 import (
-	"github.com/aws/aws-sdk-go/internal/features/shared"
-	"github.com/aws/aws-sdk-go/service/lambda"
+	"github.com/gunosy/aws-sdk-go/internal/features/shared"
+	"github.com/gunosy/aws-sdk-go/service/lambda"
 	. "github.com/lsegal/gucumber"
 )
 

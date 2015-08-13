@@ -3,9 +3,9 @@
 package datapipeline
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/internal/protocol/jsonrpc"
-	"github.com/aws/aws-sdk-go/internal/signer/v4"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/internal/protocol/jsonrpc"
+	"github.com/gunosy/aws-sdk-go/internal/signer/v4"
 )
 
 // AWS Data Pipeline configures and manages a data-driven workflow called a

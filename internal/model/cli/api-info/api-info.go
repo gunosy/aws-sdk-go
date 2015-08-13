@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"sort"
 
-	"github.com/aws/aws-sdk-go/internal/model/api"
+	"github.com/gunosy/aws-sdk-go/internal/model/api"
 )
 
 func main() {

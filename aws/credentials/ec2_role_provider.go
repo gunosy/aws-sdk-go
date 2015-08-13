@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws/awserr"
+	"github.com/gunosy/aws-sdk-go/aws/awserr"
 )
 
 const metadataCredentialsEndpoint = "http://169.254.169.254/latest/meta-data/iam/security-credentials/"

@@ -2,8 +2,8 @@
 package cloudhsm
 
 import (
-	"github.com/aws/aws-sdk-go/internal/features/shared"
-	"github.com/aws/aws-sdk-go/service/cloudhsm"
+	"github.com/gunosy/aws-sdk-go/internal/features/shared"
+	"github.com/gunosy/aws-sdk-go/service/cloudhsm"
 	. "github.com/lsegal/gucumber"
 )
 

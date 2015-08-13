@@ -3,9 +3,9 @@
 package cloudfront
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/internal/protocol/restxml"
-	"github.com/aws/aws-sdk-go/internal/signer/v4"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/internal/protocol/restxml"
+	"github.com/gunosy/aws-sdk-go/internal/signer/v4"
 )
 
 // CloudFront is a client for CloudFront.

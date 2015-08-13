@@ -3,9 +3,9 @@
 package emr
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/internal/protocol/jsonrpc"
-	"github.com/aws/aws-sdk-go/internal/signer/v4"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/internal/protocol/jsonrpc"
+	"github.com/gunosy/aws-sdk-go/internal/signer/v4"
 )
 
 // Amazon Elastic MapReduce (Amazon EMR) is a web service that makes it easy

@@ -4,8 +4,8 @@
 package configserviceiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/service/configservice"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/service/configservice"
 )
 
 // ConfigServiceAPI is the interface type for configservice.ConfigService.

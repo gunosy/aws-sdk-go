@@ -4,8 +4,8 @@
 package elasticbeanstalkiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/service/elasticbeanstalk"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/service/elasticbeanstalk"
 )
 
 // ElasticBeanstalkAPI is the interface type for elasticbeanstalk.ElasticBeanstalk.

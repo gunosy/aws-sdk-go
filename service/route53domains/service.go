@@ -3,9 +3,9 @@
 package route53domains
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/internal/protocol/jsonrpc"
-	"github.com/aws/aws-sdk-go/internal/signer/v4"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/internal/protocol/jsonrpc"
+	"github.com/gunosy/aws-sdk-go/internal/signer/v4"
 )
 
 // Route53Domains is a client for Amazon Route 53 Domains.

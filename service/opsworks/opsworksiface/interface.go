@@ -4,8 +4,8 @@
 package opsworksiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/service/opsworks"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/service/opsworks"
 )
 
 // OpsWorksAPI is the interface type for opsworks.OpsWorks.

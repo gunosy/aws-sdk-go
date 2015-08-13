@@ -2,8 +2,8 @@
 package machinelearning
 
 import (
-	"github.com/aws/aws-sdk-go/internal/features/shared"
-	"github.com/aws/aws-sdk-go/service/machinelearning"
+	"github.com/gunosy/aws-sdk-go/internal/features/shared"
+	"github.com/gunosy/aws-sdk-go/service/machinelearning"
 	. "github.com/lsegal/gucumber"
 )
 

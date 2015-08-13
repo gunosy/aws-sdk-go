@@ -3,9 +3,9 @@
 package cloudformation
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/internal/protocol/query"
-	"github.com/aws/aws-sdk-go/internal/signer/v4"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/internal/protocol/query"
+	"github.com/gunosy/aws-sdk-go/internal/signer/v4"
 )
 
 // AWS CloudFormation enables you to create and manage AWS infrastructure deployments

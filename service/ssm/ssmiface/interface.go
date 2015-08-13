@@ -4,8 +4,8 @@
 package ssmiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/service/ssm"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/service/ssm"
 )
 
 // SSMAPI is the interface type for ssm.SSM.

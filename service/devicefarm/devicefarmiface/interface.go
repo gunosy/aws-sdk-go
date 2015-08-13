@@ -4,8 +4,8 @@
 package devicefarmiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/service/devicefarm"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/service/devicefarm"
 )
 
 // DeviceFarmAPI is the interface type for devicefarm.DeviceFarm.

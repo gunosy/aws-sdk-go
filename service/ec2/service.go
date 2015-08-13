@@ -3,9 +3,9 @@
 package ec2
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/internal/protocol/ec2query"
-	"github.com/aws/aws-sdk-go/internal/signer/v4"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/internal/protocol/ec2query"
+	"github.com/gunosy/aws-sdk-go/internal/signer/v4"
 )
 
 // Amazon Elastic Compute Cloud (Amazon EC2) provides resizable computing capacity

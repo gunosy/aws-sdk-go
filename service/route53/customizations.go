@@ -3,7 +3,7 @@ package route53
 import (
 	"regexp"
 
-	"github.com/aws/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/aws"
 )
 
 func init() {

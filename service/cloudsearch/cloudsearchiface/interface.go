@@ -4,8 +4,8 @@
 package cloudsearchiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/service/cloudsearch"
+	"github.com/gunosy/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/service/cloudsearch"
 )
 
 // CloudSearchAPI is the interface type for cloudsearch.CloudSearch.
